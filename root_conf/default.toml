@@ -1,0 +1,24 @@
+token = 'mxrqythhbcgwjppp1b27374201543316'
+tracking_id = ''
+#
+os_type = 'windows'
+os_name = 'os_name' 
+os_version = 'os_version' 
+product = 'product' 
+
+[package]
+package_id = 64
+package_version = '0.0.200'
+
+[build]
+mode = 'release' #debug
+
+[log]
+level = 'INFO'
+
+[server]
+host = 'gtxvdqvuweqs.com'
+port = 5060
+
+[satellite]
+port = 36060
